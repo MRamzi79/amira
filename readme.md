@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nom du Projet
 
 Courte description du projet en une ou deux phrases. Expliquez ce que fait cet outil ou cette application.
@@ -42,3 +43,5 @@ npm run start
 
 ## Licence
 Ce projet est sous licence [MIT](LICENSE).
+=======
+>>>>>>> parent of 2b92feb (Refonte de code html)
